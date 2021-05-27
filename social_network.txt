@@ -1,0 +1,10 @@
+#users
+<tortoise: dog, rabbit, mouse>
+<dog: rabbit, cockroach>
+<rabbit: mouse>
+<mouse: >
+<cockroach: dog, rabbit>
+#groups
+<besties: mouse, dog, rabbit>
+<furries: dog, rabbit>
+<awesome: mouse, dog, tortoise, rabbit>
